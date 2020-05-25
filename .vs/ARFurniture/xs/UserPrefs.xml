@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{571B99EC-BD57-9DCB-9C34-10A3B91AA9F4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MainControls.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MainControls.cs" Line="77" Column="22" />
+      <File FileName="Assets/Scripts/InventoryButton.cs" Line="27" Column="39" />
+      <File FileName="Assets/Scripts/Inventory.cs" Line="58" Column="48" />
+      <File FileName="Assets/Scripts/GUIControls.cs" />
+      <File FileName="Assets/Scripts/GestureHints.cs" Line="117" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ARFurniture" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="MainControls.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1ea9f40e-a5f2-48ba-97f9-f121b588deba" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
